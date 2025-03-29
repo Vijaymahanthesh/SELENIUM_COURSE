@@ -16,6 +16,8 @@ public class Practice {
 		driver.findElement(By.className("signInBtn")).click();
 		System.out.println(driver.findElement(By.cssSelector("p.error")).getText());
 		Thread.sleep(1000);
+		System.out.println("this is gitdemo");
+		System.out.println("this is Good");
 	}
 
 }
