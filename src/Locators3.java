@@ -18,5 +18,4 @@ public class Locators3 {
 	  System.out.println("this is locators3");
 	  System.out.println("this is locators3 changes");
 	}
-
 }
