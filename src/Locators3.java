@@ -17,6 +17,8 @@ public class Locators3 {
 	  System.out.println("hi hello"+ driver.findElement(By.xpath("//header/div/button[1]/parent::div/button[2]")).getText());//this is example for traversing from child to parent
 	  System.out.println("this is locators3");
 	  System.out.println("this is locators3 changes");
+	  System.out.println("this is git branch creating demo");
+	  System.out.println("this is better understanding");
 	}
 
 }
